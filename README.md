@@ -5,10 +5,12 @@ A simple craft cms plugin to say hello to you users in 237 languages
 
 Craft 2+ (craft 2.5 ready)
 
-### Instalation
+### Installation
 
 Download and unzip Greet
+
 Upload the entire *greet* directory to craft/plugins
+
 Install Greet in the admin/plugins area
 
 ### Updating
